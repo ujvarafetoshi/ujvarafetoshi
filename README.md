@@ -35,4 +35,3 @@ I'm currently mastering the art of Data Science and AI at EDHEC Business School,
 #### 📫 Let's Connect:
 
 - LinkedIn: [linkedin.com/in/ujvarafetoshi](https://www.linkedin.com/in/ujvarafetoshi)
-- Email: ufetoshi@gmail.com
