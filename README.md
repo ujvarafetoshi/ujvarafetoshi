@@ -3,7 +3,7 @@
 
 ### MSC. DATA SCIENCE AND AI | BUSINESS INTELLIGENCE & AI ENTHUSIAST
 
-I'm currently mastering the art of Data Science and AI at EDHEC Business School, one of Europe's top business schools, with an expected graduation in December 2024. With a rich background in Economics & Statistics from the Rochester Institute of Technology, I pride myself on blending technical prowess with business acumen.
+I'm currently mastering the art of Data Science and AI at EDHEC Business School, one of Europe's top business schools, with an expected graduation in December 2024. With a rich background in Economics & Statistics from the Rochester Institute of Technology, I pride myself on blending technical skills with business acumen.
 
 #### 🌱 What I'm Focused On:
 
