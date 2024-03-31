@@ -14,7 +14,7 @@ I'm currently mastering the art of Data Science and AI at EDHEC Business School,
 #### 💼 Professional Journey:
 
 - Currently leading AI-driven initiatives as a **Lead AI Data Scientist** at New Boundary Technologies.
-- Previously, I've managed to elevate brands and strategies as a Business Development Manager and Marketing Manager, showcasing my ability to not just understand data, but to also translate it into growth opportunities.
+- Previously, I've managed to brands and strategies as a Business Development Manager and Marketing Manager, showcasing my ability to not just understand data, but to also translate it into growth opportunities.
 
 #### 🛠 Technical Skills:
 
