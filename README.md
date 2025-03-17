@@ -7,9 +7,9 @@ I'm currently mastering the art of Data Science and AI at EDHEC Business School,
 
 #### 🌱 What I'm Focused On:
 
-- 📊 **Data Analysis & Visualizations**: Passionate about turning data into compelling stories that drive business success.
-- 🤖 **AI & Machine Learning**: Exploring the potential of AI to transform industries through predictive modeling and insightful analytics.
-- 🌉 **Bridging Technical and Business Worlds**: Utilizing my data science skills to generate actionable business insights.
+-  **Data Analysis & Visualizations**: Passionate about turning data into compelling stories that drive business success.
+-  **AI & Machine Learning**: Exploring the potential of AI to transform industries through predictive modeling and insightful analytics.
+-  **Bridging Technical and Business Worlds**: Utilizing my data science skills to generate actionable business insights.
 
 #### 💼 Professional Journey:
 
